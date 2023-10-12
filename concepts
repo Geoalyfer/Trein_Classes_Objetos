@@ -1,0 +1,4 @@
+A partir de uma classe é pssível criar novos objetos.
+Cria-se a descrição da classe pela técnica da abstração. Ex.; Definir carro = marca, cor, acelera (), freia() (Molde)
+Instancia-se o objeto a partir da classe. Ex: Ferrari (vermelha, acelera(), freia()); Porshe (preta,acelera(), freia()), VW Kombi (branca, acelera(), freia(). (Moldado)
+Um objeto só pertence a uma classe.
